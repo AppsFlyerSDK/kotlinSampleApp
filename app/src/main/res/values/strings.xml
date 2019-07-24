@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">kotlinsampleapp</string>
+    <string name="get_conversion_data">Get conversion data</string>
+    <string name="simple_in_app_events">Simple In app events</string>
+    <string name="oaoaData">OAOA results will be visible after deeplinking into the app</string>
+    <string name="kotlin_sample_app"><u>Kotlin sample app</u></string>
+    <string name="event_tracking">Event Tracking</string>
+    <string name="event_value">Event Value</string>
+    <string name="event_name">Event Name</string>
+    <string name="conversion_data_title"><u>Conversion data</u></string>
+    <string name="deep_link_data_title"><u>DeepLink data</u></string>
+    <string name="custom_in_app_event">Custom in app event</string>
+    <string name="sample_event">Event name: Sample Event</string>
+    <string name="in_app_events"><u>In app events</u></string>
+    <string name="conversion_data">Conversion data loading...</string>
+</resources>
+
